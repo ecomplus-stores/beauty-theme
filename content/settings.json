@@ -1,25 +1,25 @@
 {
-  "domain": "ecomplus-storefront.netlify.app",
+  "domain": "ecombeauty.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "",
+  "primary_color": "#e83e8c",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "icons_font": "_",
-  "font_family": "_",
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "name": "My Shop",
-  "short_name": "My Shop",
+  "name": "Tema Beauty - E-Com Plus",
+  "short_name": "Tema Beauty - E-Com Plus",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "",
-  "icon": "/img/icon.png",
+  "secondary_color": "#dbdbdb",
+  "icon": "/img/uploads/logo.png",
   "store_id": 42053,
-  "description": "My PWA Shop",
-  "large_icon": "/img/large-icon.png"
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+  "large_icon": "/img/uploads/logo.png"
 }
