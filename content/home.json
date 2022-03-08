@@ -76,6 +76,11 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Loja do tema Beuty ",
+      "description": "Essa loja é fictícia e existe apenas de exibição de um tema"
     }
   ]
 }
