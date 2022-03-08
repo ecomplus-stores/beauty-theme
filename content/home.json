@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/banner-img-txt-btn-done.png",
@@ -25,7 +25,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/demaquilante-banner-fullwidth-2x.png"
+          "img": "/img/uploads/demaquilante-banner-fullwidth-done.png"
         }
       ]
     },
