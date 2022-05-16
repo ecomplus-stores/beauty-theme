@@ -1,5 +1,5 @@
 {
-  "css": ".info-bar {\n    background: #ffffff;\n    border-bottom: inset;\n}\n.products-carousel__title:before {\n  width: 0%;\n}\n.product-card__offer-stamp {\n    background-color: #e83e8c;\n}",
+  "css": "",
   "html_head": "",
   "html_body": ""
 }
