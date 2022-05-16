@@ -1,7 +1,7 @@
 {
   "domain": "ecombeauty.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e83e8c",
+  "primary_color": "",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#dbdbdb",
+  "secondary_color": "",
   "icon": "/img/uploads/logo.png",
   "store_id": 42053,
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
