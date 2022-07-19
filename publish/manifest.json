@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b9555e32617f2daffa7969d45f123f6a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.beedbe95d32f1dc89e82f7e9bbc52b1b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.3cb8476c7cdcca1a0ce8be8c7a0dbec8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.8eff977cb80541d6eb07fa04d417ee5f.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.dccad503a2626c9b9ce2f04e326ec62c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tema Beauty - E-Com Plus",
+  "short_name": "Tema Beauty - E-Com Plus",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+  "background_color": "#ffffff",
+  "theme_color": "#20c997"
+}
