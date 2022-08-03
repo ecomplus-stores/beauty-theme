@@ -2,6 +2,7 @@
   "domain": "ecombeauty.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "",
+  "repository": "ecomplus-stores/beauty-theme",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
