@@ -13,20 +13,22 @@
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/1.png"
         },
         {
           "img": "/img/uploads/banner2.png",
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/2.png"
         },
         {
+          "img": "/img/uploads/demaquilante-banner-fullwidth-2x.png",
+          "alt": "",
           "start": "",
           "end": "",
-          "img": "/img/uploads/demaquilante-banner-fullwidth-done.png"
-        }
+          "mobile_img": "/img/uploads/3.png"
+        },
       ]
     },
     {
