@@ -7,7 +7,7 @@
     "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/beautylogo.png",
   "name": "Tema Beauty - E-Com Plus",
   "short_name": "Tema Beauty - E-Com Plus",
   "lang": "pt_br",
@@ -15,11 +15,11 @@
   "mini_logo": "",
   "repository": "ecomplus-stores/beauty-theme",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/beautyfavicon.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "",
-  "icon": "/img/uploads/logo.png",
+  "icon": "/img/uploads/icon.png",
   "store_id": 42053,
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
   "large_icon": "/img/uploads/logo.png"
